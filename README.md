@@ -20,13 +20,13 @@ Installation:
 Using the Modification:
 1) Press 'Esc' to Pause
 2) Navigate to Credits
-3) Click 'Mod Menu' 
+3) Click 'Mod Menu'
 
 
 ![image](https://user-images.githubusercontent.com/96957069/172212601-4c6bac92-04a6-4644-99f5-16e8c76a1cbe.png)
 
 
-4) Enjoy! 
+4) Enjoy! (TIP: You can use the NUMPAD '+' to Increase a Sale to Customer by $10,000 while the game is running)
 
 ![image](https://user-images.githubusercontent.com/96957069/172212738-de43a33b-f9c5-49f2-a496-914e27b88ae5.png)
 
