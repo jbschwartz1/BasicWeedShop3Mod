@@ -1,7 +1,7 @@
 # BasicWeedShop3Mod
 A basic Weed Shop 3 Mod
 
-Disclaimer: It is probably wise to make a backup of your SaveFile before using this (EX: C:\Users\<user>\AppData\LocalLow\Weed Games\Weed Shop 3
+Disclaimer: It is probably wise to make a backup of your SaveFile before using this (EX: C:\Users\\<user>\AppData\LocalLow\Weed Games\Weed Shop 3
 
 This Modification can do the Following:
 1) Boost Experience by 1-100x 
