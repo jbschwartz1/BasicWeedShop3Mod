@@ -28,8 +28,11 @@ a.	If you notice any errors with the game, simply delete the BepInEx folder and 
 
 Using the Mod:
 1)	Once the game is running and you are at your shop, click escape to open your options and navigate to the “Contents” menu (the mod will also appear on the settings and contents page). At the top left of your screen there should be a green cross, click it.
+
  ![image](https://user-images.githubusercontent.com/96957069/173198319-5191e0cf-cfbb-4d04-80c6-1d776f584ff6.png)
+ 
 2)	The Mod has five features (likely to increase in future updates). 
+
  ![image](https://user-images.githubusercontent.com/96957069/173198326-e4ab661e-5558-48db-94e1-2a622378bd8d.png)
 
 a.	The features are:
