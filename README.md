@@ -44,10 +44,16 @@ a.	If you notice any errors with the game, simply delete the BepInEx folder and 
 
  ![image](https://user-images.githubusercontent.com/96957069/173198326-e4ab661e-5558-48db-94e1-2a622378bd8d.png)
 
-a.	The features are:
-i.	Bonus XP, which is calculated as XP x (MULTIPLIER x 2)
-ii.	Bonus Cash, which is calculated as (Cash Earned on Sale + (10,000 * MULTIPLIER)
-iii.	Bonus Yield, which increases the amount of weed generated while the plant is growing (based on MULTIPLIER). If paired with Speed up Grow, you will see a rapidly growing plant. Depending on the strain, the CUMULATIVE yield will cap out at 1500G and then return to normal yield calculations.
-iv.	Speed up Grow, which will speed up the rate the plant grows. If used without Bonus Yield, the final yield should be close to what the normal plant would offer.
-v.	Boost Speed, which is a ‘lite’ speed hack.
+   a.	The features are:
+   
+     i.	Bonus XP, which is calculated as XP x (MULTIPLIER x 2)
+     
+     ii.	Bonus Cash, which is calculated as (Cash Earned on Sale + (10,000 * MULTIPLIER)
+     
+     iii.	Bonus Yield, which increases the amount of weed generated while the plant is growing (based on MULTIPLIER). If paired with Speed up Grow, you will see a rapidly growing plant. Depending on the strain, the CUMULATIVE yield will cap out at 1500G and then return to normal yield calculations.
+    
+    iv.	Speed up Grow, which will speed up the rate the plant grows. If used without Bonus Yield, the final yield should be close to what the normal plant would offer.
+    
+    v.	Boost Speed, which is a ‘lite’ speed hack.
+     
 3)	That’s it! Enjoy! If you have any feature requests or encounter any bugs, feel free to reach me on the Weed Shop 3 Discord, comment on the Steam Guide or make an issue on Github. Cheers!
