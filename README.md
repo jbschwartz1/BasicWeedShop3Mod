@@ -15,14 +15,20 @@ Prerequisites:
 Installation:
 1)	Navigate to your Steam Apps directory (EX: C:\Program Files (x86)\Steam\steamapps\common)
 2)	Right click Weed Shop 3, click copy, and paste it into the common folder. You should now have two copies of Weed Shop 3. One will be named Weed Shop 3 – Copy. If you corrupt your game, delete the Weed Shop 3 folder and rename Weed Shop 3 – Copy to Weed Shop 3
+
  ![image](https://user-images.githubusercontent.com/96957069/173198282-c394612a-964d-4933-b19a-0a037bd33e4d.png)
+ 
 3)	Navigate to your Temp directory (EX: C:\Users\YOUR_USERNAME\AppData\LocalLow\Weed Games\Weed Shop 3 and copy the contents of this folder to a safe and easy-to-remember location. This is your Auto-Save data. 
 4)	Extract the contents of BepInEx to the Weed Shop 3 root directory
+
  ![image](https://user-images.githubusercontent.com/96957069/173198297-9366202e-41d9-46bb-b7a1-c1e4f62b437f.png)
+ 
 5)	Run your game, this is important because it generates the offsets for BepInEx
 6)	Once the game has launched, quit the game.
 7)	Copy the Mod.dll file into your ../BepInEx/Plugins folder 
+
 ![image](https://user-images.githubusercontent.com/96957069/173198313-9c12720a-6d09-4e80-9194-c5c1b063c3c0.png)
+
 8)	Start the game! The plugin is now ready to use! You can add multiple plugins to this folder but be careful because if two plugins try to access the same IL instructions, it could crash the game and potentially corrupt your save file! Enjoy!
 a.	If you notice any errors with the game, simply delete the BepInEx folder and reapply the patch. If you experience continued issues, use the backup copy of the game referenced above.
 
