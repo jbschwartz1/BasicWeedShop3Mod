@@ -1,4 +1,4 @@
-***Foreword:
+***Foreword:***
 
  Please play the game organically before altering the mechanics. The developers have put a lot of effort into making this game balanced and enjoyable.  I believe it’s important, not only out of respect to the developers, but in the spirit of gaming, to play the game as the developers intended for a reasonable amount of time. 
 
@@ -6,14 +6,14 @@ I have on several occasions, on different accounts, put hundreds of hours into t
 A special shoutout to Andreas Pardeike, without him this would be much more technically challenging.
 To learn more about Harmony, go to: https://github.com/pardeike/Harmony
 
-***Prerequisites:
+***Prerequisites:***
 1)	A basic understanding of computer filesystem architecture and the ability to modify directories
 2)	A PURCHASED copy of Weed Shop 3 from https://bestweed.games or directly through steam.
 3)	A fresh copy of BepInEx from https://github.com/BepInEx/BepInEx
 4)	A copy of the ModMenu from https://github.com/jbschwartz1/BasicWeedShop3Mod
 5)	A copy of dnSpy from https://github.com/dnSpy/dnSpy so you can view and modify the .dll source code.
 
-***Installation:
+***Installation:***
 
 1)	Navigate to your Steam Apps directory (EX: C:\Program Files (x86)\Steam\steamapps\common)
 2)	Right click Weed Shop 3, click copy, and paste it into the common folder. You should now have two copies of Weed Shop 3. One will be named Weed Shop 3 – Copy. If you corrupt your game, delete the Weed Shop 3 folder and rename Weed Shop 3 – Copy to Weed Shop 3
@@ -34,7 +34,7 @@ To learn more about Harmony, go to: https://github.com/pardeike/Harmony
 8)	Start the game! The plugin is now ready to use! You can add multiple plugins to this folder but be careful because if two plugins try to access the same IL instructions, it could crash the game and potentially corrupt your save file! Enjoy!
 a.	If you notice any errors with the game, simply delete the BepInEx folder and reapply the patch. If you experience continued issues, use the backup copy of the game referenced above.
 
-***Using the Mod:
+***Using the Mod:***
 
 1)	Once the game is running and you are at your shop, click escape to open your options and navigate to the “Contents” menu (the mod will also appear on the settings and contents page). At the top left of your screen there should be a green cross, click it.
 
