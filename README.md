@@ -3,7 +3,7 @@
  Please play the game organically before altering the mechanics. The developers have put a lot of effort into making this game balanced and enjoyable.  I believe it’s important, not only out of respect to the developers, but in the spirit of gaming, to play the game as the developers intended for a reasonable amount of time. 
 
 I have on several occasions, on different accounts, put hundreds of hours into the game. I find it fun and relaxing; however, I must admit that the early game grind got a little stale, so out of curiosity this mod was created. Below there will be a brief explanation on how to install the mod and the functionality therein.
-A special shoutout to Andreas Pardeike, without him this would be much more technically challenging.
+A special shoutout to Andreas Pardeike, without him this would be much more technically challenging. Inspiration comes from TopEveryDay in the WS3 Discord.
 To learn more about Harmony, go to: https://github.com/pardeike/Harmony
 
 ***Prerequisites:***
