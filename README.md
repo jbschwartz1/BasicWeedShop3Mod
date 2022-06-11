@@ -31,6 +31,7 @@ Using the Mod:
  ![image](https://user-images.githubusercontent.com/96957069/173198319-5191e0cf-cfbb-4d04-80c6-1d776f584ff6.png)
 2)	The Mod has five features (likely to increase in future updates). 
  ![image](https://user-images.githubusercontent.com/96957069/173198326-e4ab661e-5558-48db-94e1-2a622378bd8d.png)
+
 a.	The features are:
 i.	Bonus XP, which is calculated as XP x (MULTIPLIER x 2)
 ii.	Bonus Cash, which is calculated as (Cash Earned on Sale + (10,000 * MULTIPLIER)
